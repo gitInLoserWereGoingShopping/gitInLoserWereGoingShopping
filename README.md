@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+LinkedIn GitHub Gmail
+
+🏢 Fullstack Software Engineer
+📍 Based in Houston, TX
+😄 Pronouns: he/him/his
+Languages & Tools
+JavaScript React HTML CSS Jest Git VSCode Chakra
+Node Express MySQL MongoDB
