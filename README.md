@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 
 😄 Pronouns: he/him/his
 
-## Languages & Tools
+🎓 Hack Reactor Software Engineering Immersive - ATX Cohort 56
+🎓 B.S. in Petroleum Engineering - University of Oklahoma (OU) Class of 2014
 
-JavaScript React HTML CSS Jest Git VSCode Chakra
+## Languages/Tools/Skills
 
-Node Express MySQL MongoDB
+JavaScript React HTML CSS Jest Git VSCode Chakra Material-UI jQuery Docker
+
+Node.js Express MySQL MongoDB
