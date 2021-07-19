@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gitInLoserWereGoingShopping/gitInLoserWereGoingShopping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,11 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-LinkedIn GitHub Gmail
+## Overview/Summary
 
 🏢 Fullstack Software Engineer
+
 📍 Based in Houston, TX
+
 😄 Pronouns: he/him/his
-Languages & Tools
+
+## Languages & Tools
+
 JavaScript React HTML CSS Jest Git VSCode Chakra
+
 Node Express MySQL MongoDB
