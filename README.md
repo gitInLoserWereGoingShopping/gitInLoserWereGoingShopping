@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="center" src="https://user-images.githubusercontent.com/33425993/126238916-783d621d-c138-4bd8-a4d5-95a4fd9bf3dc.gif"></img>
+
+<!--
+![MP_PofileBannerGIF](https://user-images.githubusercontent.com/33425993/126238916-783d621d-c138-4bd8-a4d5-95a4fd9bf3dc.gif)
+-->
 
 ## Overview/Summary
 
