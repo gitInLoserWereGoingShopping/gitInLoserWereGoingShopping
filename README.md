@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 😄 Pronouns: he/him/his
 
 🎓 Hack Reactor Software Engineering Immersive - ATX Cohort 56
+
 🎓 B.S. in Petroleum Engineering - University of Oklahoma (OU) Class of 2014
 
 ## Languages/Tools/Skills
