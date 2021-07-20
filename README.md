@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 🎓 B.S. in Petroleum Engineering - University of Oklahoma (OU) Class of 2014
 
+Comfortable developing on Windows, Linux, or macOS 
+
 ## Languages/Tools/Skills
 <table>
 <thead>
