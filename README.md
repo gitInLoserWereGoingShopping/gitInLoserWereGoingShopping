@@ -63,3 +63,5 @@ Here are some ideas to get you started:
 </tr>
 </tbody>
 </table>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitInLoserWereGoingShopping)](https://github.com/gitInLoserWereGoingShopping/github-readme-stats)
