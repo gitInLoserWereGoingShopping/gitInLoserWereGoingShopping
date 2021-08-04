@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 🎓 Hack Reactor Software Engineering Immersive - ATX Cohort 56
 
-🎓 B.S. in Petroleum Engineering - University of Oklahoma (OU) Class of 2014
+🎓 B.S. in Petroleum Engineering - University of Oklahoma
 
 💻 Comfortable developing on Windows, Linux, or macOS
 
