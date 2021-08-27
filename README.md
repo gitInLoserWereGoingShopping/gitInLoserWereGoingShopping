@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 🎓 B.S. in Petroleum Engineering - University of Oklahoma
 
-💻 Comfortable developing on Windows, Linux, or macOS
+💻 Comfortable developing on Windows, Linux, or Mac
 
 🦾 Current primary software stack: MERN
 
