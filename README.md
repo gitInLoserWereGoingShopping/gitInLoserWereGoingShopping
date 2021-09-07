@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 <td>Currently Learning</td>
 <td>
 </a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/54cb7d68473941f06c248a7f4d81b8da86fe9e283e78614b7951fe2cf59c3ac2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b756265726e657465732d3330363964643f7374796c653d666c6174266c6f676f3d6b756265726e65746573266c6f676f436f6c6f723d464646464646"><img src="https://camo.githubusercontent.com/54cb7d68473941f06c248a7f4d81b8da86fe9e283e78614b7951fe2cf59c3ac2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b756265726e657465732d3330363964643f7374796c653d666c6174266c6f676f3d6b756265726e65746573266c6f676f436f6c6f723d464646464646" data-canonical-src="https://img.shields.io/badge/-Kubernetes-3069dd?style=flat&amp;logo=kubernetes&amp;logoColor=FFFFFF" style="max-width:100%;"></a>
+</a> <a target="_blank" rel="noopener noreferrer" href="https://threejs.org/"><img src="https://img.shields.io/badge/-Threejs-orange?style=plastic&logo=javascript" data-canonical-src="https://img.shields.io/badge/-Threejs-orange?style=plastic&logo=javascript" style="max-width:100%;"></a>
 </td>
 </tr>
 </tbody>
